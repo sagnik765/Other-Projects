@@ -1,2 +1,9 @@
 # Basic-Python-Projects
 Here you will find all my Projects using Python and its numerous libraries
+
+Chess Board    https://github.com/sagnik765/Chess-Board
+Rock Paper Scissors Game    https://github.com/sagnik765/Rock-Paper-Scissors-Game
+MP3 Player    https://github.com/sagnik765/MP3-Player
+Audio Book    https://github.com/sagnik765/Audio-Book
+Weather Forecaster    https://github.com/sagnik765/Weather-Forecaster
+Hangman Game    https://github.com/sagnik765/Hangman-Game
