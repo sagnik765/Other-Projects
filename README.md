@@ -1,4 +1,4 @@
-# Basic-Python-Projects
+# Python-and-SQL-Projects
 Here you will find all my Projects using Python and its numerous libraries
 
 Amazon Top 50 Bestselling Books    https://github.com/sagnik765/Amazon-Top-50-Bestselling-books-Analysis
