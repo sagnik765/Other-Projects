@@ -1,6 +1,8 @@
 # Other-Projects
 Here you will find all my Projects using Python and its numerous libraries
 
+Restaurant Food Resrevation System (SEPM Academic Project) https://github.com/sagnik765/Restaurant-Food-Reservation-System-SEPM-Academic-Project-
+
 Amazon Bestselling Books   https://github.com/sagnik765/Amazon-Top-50-Bestselling-books-Analysis
 
 Chess Board    https://github.com/sagnik765/Chess-Board
