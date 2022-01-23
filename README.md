@@ -5,6 +5,8 @@ Restaurant Food Resrevation System (SEPM Academic Project) https://github.com/sa
 
 Amazon Bestselling Books   https://github.com/sagnik765/Amazon-Top-50-Bestselling-books-Analysis
 
+Vegetarians va Non-Vegetarians Analysis in India   https://github.com/sagnik765/Vegetarians-vs-Non-Vegetarians-in-India
+
 Chess Board    https://github.com/sagnik765/Chess-Board
 
 MP3 Player   https://github.com/sagnik765/MP3-Player
