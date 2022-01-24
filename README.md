@@ -7,7 +7,7 @@ Movie Recommendation System       https://github.com/sagnik765/Movie-Recommended
 
 Amazon Bestselling Books   https://github.com/sagnik765/Amazon-Top-50-Bestselling-books-Analysis
 
-Vegetarians va Non-Vegetarians Analysis in India   https://github.com/sagnik765/Vegetarians-vs-Non-Vegetarians-in-India
+Vegetarians va Non-Vegetarian Foods Analysis in India   https://github.com/sagnik765/Vegetarians-vs-Non-Vegetarians-in-India
 
 //
 (Basic Python Projects)
