@@ -1,7 +1,7 @@
 # Other-Projects
 Here you will find all my Projects using Python and its numerous libraries
 
-Restaurant Food Resrevation System    https://github.com/sagnik765/Restaurant-Food-Reservation-System-SEPM-Academic-Project
+Restaurant Food Reservation System    https://github.com/sagnik765/Restaurant-Food-Reservation-System-SEPM-Academic-Project
 
 Movie Recommended System       https://github.com/sagnik765/Movie-Recommended-System
 
