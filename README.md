@@ -9,6 +9,7 @@ Amazon Bestselling Books   https://github.com/sagnik765/Amazon-Top-50-Bestsellin
 
 Vegetarians va Non-Vegetarian Foods Analysis in India   https://github.com/sagnik765/Vegetarians-vs-Non-Vegetarians-in-India
 
+Library Management System using SQL https://github.com/sagnik765/Library-Management-System
 //
 (Basic Python Projects)
 
