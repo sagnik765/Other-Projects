@@ -5,7 +5,7 @@ Restaurant Food Reservation System (Major Project)    https://github.com/sagnik7
 
 Movie Recommendation System using Matplotlib      https://github.com/sagnik765/Movie-Recommended-System
 
-Amazon Bestselling Books   https://github.com/sagnik765/Amazon-Top-50-Bestselling-books-Analysis
+Amazon Bestselling Books Analysis   https://github.com/sagnik765/Amazon-Top-50-Bestselling-books-Analysis
 
 Vegetarians va Non-Vegetarian Foods Analysis in India   https://github.com/sagnik765/Vegetarians-vs-Non-Vegetarians-in-India
 
