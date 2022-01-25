@@ -13,6 +13,7 @@ Library Management System using SQL https://github.com/sagnik765/Library-Managem
 
 //
 (Basic Python Projects)
+//
 
 Chess Board    https://github.com/sagnik765/Chess-Board
 
