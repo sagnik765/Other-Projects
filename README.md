@@ -11,4 +11,6 @@ Here you will find all my Projects using Python and its numerous libraries
 
 5. Library Management System using SQL https://github.com/sagnik765/Library-Management-System
 
+6. Dognition Business Data Visualization Project using Tableau    https://github.com/sagnik765/Dognition-Business-Data-Visualization-Project
+
 
