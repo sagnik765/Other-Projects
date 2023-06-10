@@ -1,7 +1,7 @@
 # Other-Projects
 Here you will find all my Projects using Python and its numerous libraries
 
-1. Restaurant Food Reservation System (Major Project)    https://github.com/sagnik765/Restaurant-Food-Reservation-System-SEPM-Academic-Project-
+1. Restaurant Food Reservation System (Major)    https://github.com/sagnik765/Restaurant-Food-Reservation-System-SEPM-Academic-Project-
 
 2. Library Management System using SQL https://github.com/sagnik765/Library-Management-System
 
